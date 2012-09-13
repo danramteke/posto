@@ -1,0 +1,7 @@
+pkg/
+
+# For emacs:
+*~
+\#*
+.\#*
+.idea/workspace.xml
