@@ -1,5 +1,5 @@
 source :rubygems
-
+gem 'git'
 gem 'activesupport'
 gem 'highline'
 
