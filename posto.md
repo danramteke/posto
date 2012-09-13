@@ -5,3 +5,4 @@ todo
 * plants
 * shoots
 * leaves
+* add some tests
