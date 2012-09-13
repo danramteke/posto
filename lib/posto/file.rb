@@ -33,7 +33,7 @@ module Posto
     end
 
     def lines
-      `git show posto:#{@filename}`.split("\n") || []
+      `git show posto:#{@filename}`.split("\n")
     end
 
     private
